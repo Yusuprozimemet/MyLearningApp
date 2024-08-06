@@ -16,50 +16,53 @@
 
 ### Home Screen
 ![Home Screen](Screenshot%20(2358).png)
-The home screen provides an overview of your current learning status and quick access to various modules.
+- Provides an overview of your current learning status and quick access to various modules.
 
 ### Speaking Overview
 ![Speaking Overview](Screenshot%20(2359).png)
-Various ways of practicing speaking: by lesson, by topics, and free chat with audio responses from the chatbot.
+- Various ways of practicing speaking: by lesson, by topics, and free chat with audio responses from the chatbot.
 
 ### Listening Overview
 ![Listening](Screenshot%20(2360).png)
-This feature fits a higher level of listening practice.
+- Designed for higher-level listening practice.
 
 ### Writing Section
 ![Writing Section](Screenshot%20(2361).png)
-Test your writing skills with various topics.
+- Test your writing skills with various topics.
 
 ### Vocabulary Builder
 ![Vocabulary Builder](Screenshot%20(2362).png)
-Flashcards help you save new words for further practice in different ways.
+- Flashcards help you save new words for further practice in different ways.
 
 ### Interactive Exercises
 ![Interactive Exercises](Screenshot%20(2363).png)
-Engage with exercises that improve your language skills through practice and repetition.
+- Engage with exercises that improve your language skills through practice and repetition.
 
 ### Learn by Typing Practice
 ![Learn by Typing Practice](Screenshot%20(2364).png)
-This feature helps you learn words interactively. I like this session the most. The progress bar always keeps you alert about your progress.
+- Interactive word learning with a progress bar to track your improvement.
 
 ### Dictionaries Management
 ![Dictionaries Management](Screenshot%20(2365).png)
-This session will help you manage what to learn. Import your lessons to start easily. You can manage the lessons for whole pages from here.
+- Manage your learning materials and easily import lessons for efficient learning.
 
 ## Getting Started
 
-1. **Download and Install**: Send me an email if you are interested in using this app. 
-2. **Create an Account**: Sign up with your email.
-3. **Choose Your Language**: Select the language you want to learn.
-4. **Start Learning**: Begin with the introductory lessons and progress at your own pace.
+1. **Download and Install**: Contact us via email at [yusup.rozimemet@gmail.com](mailto:yusup.rozimemet@gmail.com) to get started with MyLearningApp.
+   
+2. **Create an Account**: Sign up with your email to start using the app.
+   
+3. **Choose Your Language**: Select the language you want to learn from the available options.
+   
+4. **Start Learning**: Begin with introductory lessons and progress at your own pace.
 
 ## Feedback and Support
 
-We value your feedback! If you have any suggestions or need assistance, please contact me at [yusup.rozimemet@gmail.com](mailto:yusup.rozimemet@gmail.com).
+We value your feedback! If you have any suggestions or need assistance, please contact us at [yusup.rozimemet@gmail.com](mailto:yusup.rozimemet@gmail.com).
 
 ## Contributing
 
-We welcome contributions from the community. If you’re interested in contributing to MyLearningApp, please contact me.
+We welcome contributions from the community. If you’re interested in contributing to MyLearningApp, please contact us.
 
 ## License
 
