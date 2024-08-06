@@ -1,6 +1,6 @@
-# MyLearningApp
+# I am offering this app for sale and can customize it to meet your specific needs. Please contact me if you're interested.
 
-## Overview
+## MyLearningApp Overview
 
 **MyLearningApp** is an innovative language learning application designed to make mastering a new language engaging, efficient, and fun. With a variety of interactive exercises, quizzes, and progress tracking, MyLearningApp is perfect for beginners and advanced learners alike.
 
@@ -59,10 +59,6 @@
 ## Feedback and Support
 
 We value your feedback! If you have any suggestions or need assistance, please contact us at [yusup.rozimemet@gmail.com](mailto:yusup.rozimemet@gmail.com).
-
-## Contributing
-
-We welcome contributions from the community. If you’re interested in contributing to MyLearningApp, please contact us.
 
 ## License
 
